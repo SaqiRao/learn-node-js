@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "React Portfolio Website",
+    "description": "Built with React.js and Node.js"
+  },
+  {
+    "id": 2,
+    "title": "File-Based Project",
+    "description": "Stored in a JSON file"
+  }
+]
